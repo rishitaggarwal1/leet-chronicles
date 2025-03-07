@@ -9,6 +9,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Math
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
@@ -23,4 +24,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
