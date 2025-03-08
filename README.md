@@ -28,4 +28,12 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2610-closest-prime-numbers-in-range) |
+## String
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
