@@ -16,6 +16,7 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,5 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
