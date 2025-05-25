@@ -15,6 +15,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Array
 |  |
 | ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
@@ -26,6 +27,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Hash Table
 |  |
 | ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -41,6 +43,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## String
 |  |
 | ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
@@ -56,6 +59,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Counting
 |  |
 | ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -71,4 +75,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Greedy
+|  |
+| ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 <!---LeetCode Topics End-->
