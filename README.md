@@ -43,6 +43,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0151-reverse-words-in-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
@@ -79,4 +80,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
