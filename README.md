@@ -12,6 +12,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2610-closest-prime-numbers-in-range](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -87,4 +88,12 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0151-reverse-words-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
