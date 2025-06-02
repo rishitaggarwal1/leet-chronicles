@@ -16,6 +16,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -80,6 +81,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Two Pointers
 |  |
