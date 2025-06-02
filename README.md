@@ -13,6 +13,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2649-count-total-number-of-colored-cells](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -92,8 +93,10 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
