@@ -19,6 +19,7 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -99,4 +100,12 @@ Let me know if you'd like a different name or a more specific theme!
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3201-distribute-candies-among-children-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
