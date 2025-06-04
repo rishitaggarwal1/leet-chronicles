@@ -52,6 +52,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0151-reverse-words-in-a-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Let me know if you'd like a different name or a more specific theme!
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
 | ------- |
