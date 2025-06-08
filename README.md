@@ -18,6 +18,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -41,6 +42,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -119,4 +121,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
