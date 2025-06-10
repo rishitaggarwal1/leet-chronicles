@@ -39,6 +39,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
