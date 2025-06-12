@@ -30,6 +30,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [3483-alternating-groups-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
