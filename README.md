@@ -24,6 +24,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
@@ -100,6 +101,7 @@ Let me know if you'd like a different name or a more specific theme!
 | ------- |
 | [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Two Pointers
 |  |
@@ -133,4 +135,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
