@@ -60,6 +60,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [0058-length-of-last-word](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0151-reverse-words-in-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
@@ -135,6 +136,7 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sorting
 |  |
 | ------- |
