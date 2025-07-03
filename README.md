@@ -15,6 +15,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [3199-distribute-candies-among-children-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Let me know if you'd like a different name or a more specific theme!
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -138,8 +140,13 @@ Let me know if you'd like a different name or a more specific theme!
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
