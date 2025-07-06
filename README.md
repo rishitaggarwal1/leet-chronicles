@@ -23,6 +23,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
@@ -40,6 +41,7 @@ Let me know if you'd like a different name or a more specific theme!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -152,4 +154,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
