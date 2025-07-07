@@ -22,6 +22,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [0054-spiral-matrix](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -109,6 +110,7 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [0135-candy](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/0135-candy) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -149,6 +151,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Sorting
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Recursion
 |  |
@@ -158,4 +161,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
