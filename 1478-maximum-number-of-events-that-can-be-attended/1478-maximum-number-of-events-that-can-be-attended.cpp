@@ -7,10 +7,6 @@ public:
     int maxEvents(vector<vector<int>>& events) {
         int n=events.size();
         sort(events.begin(),events.end(),comp);
-        for(int i=0;i<n;i++)
-        {
-            cout<<events[i][0] <<"  "<<events[i][1]<<endl;
-        }
         int md=0;
         for(int i=0;i<n;i++)
         {
