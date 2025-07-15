@@ -9,6 +9,7 @@ Let me know if you'd like a different name or a more specific theme!
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -166,4 +167,8 @@ Let me know if you'd like a different name or a more specific theme!
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
