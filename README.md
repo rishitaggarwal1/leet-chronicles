@@ -70,6 +70,7 @@ Let me know if you'd like a different name or a more specific theme!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitaggarwal1/leet-chronicles/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
